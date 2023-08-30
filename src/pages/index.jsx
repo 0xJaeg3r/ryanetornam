@@ -1,6 +1,6 @@
 import styles from '@/styles/Home.module.css'
 import Terminal from '../../components/Terminal'
-import asciiArt from './asciiArt'
+import asciiArt from '../../utils/asciiArt'
 
 export default function Home() {
   return (
