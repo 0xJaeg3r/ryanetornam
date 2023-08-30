@@ -1,0 +1,8 @@
+.input {
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    padding-left: 6px;
+    color: var(--text-color);
+    min-width: cal(100% - 100px);
+}
